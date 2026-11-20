@@ -1,0 +1,7 @@
+__pycache__/
+.pytest_cache/
+*.pyc
+skills/lesson-motion-studio/assets/Arial-*.ttf
+*.mp4
+*.wav
+*.mp3
